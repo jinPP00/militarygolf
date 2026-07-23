@@ -724,6 +724,7 @@ function header(active, depth = 0) {
   }).join("");
   return `
 <a class="skip-link" href="#main-content">본문 바로가기</a>
+<div class="hub-crumb"><div class="hub-crumb-inner"><a href="${rel(depth + 1, "index.html")}">밀리터리골프</a><span class="sep" aria-hidden="true">›</span><span>육군체력단련장 안내</span></div></div>
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="${rel(depth, "index.html")}" aria-label="${SITE_NAME}">
@@ -731,7 +732,7 @@ function header(active, depth = 0) {
       <span><strong>육군체력단련장 안내</strong></span>
     </a>
     <button class="menu-button" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="main-navigation"><span></span><span></span><span></span></button>
-    <nav class="main-nav" id="main-navigation" aria-label="주요 메뉴"><a href="${rel(depth + 1, "index.html")}">밀리터리골프 홈</a>${links}</nav>
+    <nav class="main-nav" id="main-navigation" aria-label="주요 메뉴">${links}</nav>
   </div>
 </header>`;
 }

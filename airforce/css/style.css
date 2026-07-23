@@ -77,6 +77,29 @@ p {
   word-break: keep-all;
 }
 
+.hub-crumb {
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.hub-crumb-inner {
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: 6px 20px;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.hub-crumb-inner a {
+  color: var(--blue);
+  font-weight: 700;
+}
+
+.hub-crumb-inner .sep {
+  margin: 0 0.45em;
+  opacity: 0.6;
+}
+
 .site-header {
   position: sticky;
   top: 0;
