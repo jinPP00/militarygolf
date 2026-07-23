@@ -731,7 +731,7 @@ function header(active, depth = 0) {
       <span><strong>육군체력단련장 안내</strong></span>
     </a>
     <button class="menu-button" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="main-navigation"><span></span><span></span><span></span></button>
-    <nav class="main-nav" id="main-navigation" aria-label="주요 메뉴">${links}</nav>
+    <nav class="main-nav" id="main-navigation" aria-label="주요 메뉴"><a href="${rel(depth + 1, "index.html")}">밀리터리골프 홈</a>${links}</nav>
   </div>
 </header>`;
 }
