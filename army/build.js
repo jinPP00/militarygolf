@@ -724,10 +724,9 @@ function header(active, depth = 0) {
   }).join("");
   return `
 <a class="skip-link" href="#main-content">본문 바로가기</a>
-<div class="hub-crumb"><div class="hub-crumb-inner"><a href="${rel(depth + 1, "index.html")}">밀리터리골프</a><span class="sep" aria-hidden="true">›</span><span>육군체력단련장 안내</span></div></div>
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="brand" href="${rel(depth, "index.html")}" aria-label="${SITE_NAME}">
+    <a class="brand" href="${rel(depth + 1, "index.html")}" aria-label="${SITE_NAME}">
       <span class="brand-mark" aria-hidden="true"><img src="${rel(depth, "images/site-mark.svg")}?v=${ASSET_VERSION}" alt="" width="42" height="42"></span>
       <span><strong>육군체력단련장 안내</strong></span>
     </a>
