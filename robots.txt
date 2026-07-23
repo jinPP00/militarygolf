@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /army/build.js
+Disallow: /army/server.js
+Disallow: /army/.claude/
+Disallow: /airforce/.claude/
+
+Sitemap: https://militarygolf.co.kr/sitemap.xml

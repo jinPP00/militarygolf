@@ -1,0 +1,161 @@
+{
+  "officialBase": "https://welfare.airforce.mil.kr:446",
+  "dataVerifiedAt": "2026-07-17",
+  "verificationScope": [
+    "시설 목록",
+    "전화번호",
+    "오시는 길",
+    "코스 링크",
+    "이용요금"
+  ],
+  "verificationBasis": "공군복지시설예약체계 공개 자료와 시설별 공개 안내",
+  "officialFacilityListUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010100000000",
+  "officialReservationUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_030101000000",
+  "officialFeeUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_040104000000",
+  "officialPhoneUrl": "https://welfare.airforce.mil.kr:446/wef/welfareInfoByUser.do?siteId=welfare&id=welfare_040105000000",
+  "officialHolidayUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_040106000000",
+  "officialDirectionsUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_040108000000",
+  "systemPhone": "042-552-3783",
+  "facilities": {
+    "gongsa": {
+      "officialName": "공사(성무)",
+      "address": "충북 청주시 상당구 남일면 단재로 635",
+      "nearby": "남일초등학교",
+      "officePhone": "043-290-5820",
+      "frontPhone": "043-290-5824",
+      "generalPhone": "043-290-5820",
+      "directions": "문의 I.C에서 우회전한 뒤 고은삼거리에서 청주 방향으로 좌회전합니다. 전방 육교 부근의 성무입상 방향으로 우회전해 공사 정문으로 진입하고, 정문 안 항공기를 보며 다시 우회전하면 체력단련장으로 이어집니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010101020100"
+    },
+    "gwangju": {
+      "officialName": "광주",
+      "address": "광주광역시 광산구 황룡동 1번지",
+      "nearby": "광주 체력단련장, 태평양주유소",
+      "officePhone": "062-940-4972",
+      "frontPhone": "062-940-4974",
+      "generalPhone": "062-940-4972",
+      "directions": "광주IC 쪽에서는 산월IC, 제2순환도로, 유덕요금소, 서창IC 인근을 지나 극락교 방향으로 들어갑니다. 서창IC 쪽에서는 송정공원, 광주송정역, 도산역, 도산파출소, 상록어린이집, 태평양주유소 사거리를 차례로 지나는 경로가 함께 제시돼 있습니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010102020000"
+    },
+    "sacheon": {
+      "officialName": "사천",
+      "address": "경남 사천시 축동면 길평리 6-2번지",
+      "nearby": "-",
+      "officePhone": "055-852-3301",
+      "frontPhone": "055-850-5804",
+      "generalPhone": "055-852-3301",
+      "directions": "사천IC에서 사천읍 방면으로 나온 뒤 곤양 방향으로 진행합니다. 베스트모텔을 지나면 사천 체력단련장으로 들어가는 순서입니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010103020000"
+    },
+    "gimhae": {
+      "officialName": "김해",
+      "address": "부산시 강서구 대저1동",
+      "nearby": "광현유리",
+      "officePhone": "051-973-3083",
+      "frontPhone": "051-973-3083",
+      "generalPhone": "051-973-3085",
+      "directions": "대저JC에서 부산·김해간 국도의 김해 방면으로 이동합니다. 대저 지하철역, GS GAS주유소, 평강주유소와 부대 후문을 차례로 지나 체력단련장으로 진입합니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010104020000"
+    },
+    "wonju": {
+      "officialName": "원주",
+      "address": "강원도 원주시 소초면 둔둔로",
+      "nearby": "둔둔초등학교",
+      "officePhone": "033-736-6052",
+      "frontPhone": "033-736-6052",
+      "generalPhone": "033-747-4139",
+      "directions": "원주IC에서 평창·횡성·원주시청·원주공항 방면으로 이동한 뒤 둔둔교차로에서 둔둔리 쪽으로 빠집니다. 둔둔초등학교 앞 지하도를 통과해 좌회전하면 체력단련장 방향입니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010105020000"
+    },
+    "suwon": {
+      "officialName": "수원",
+      "address": "경기도 수원시 권선구 경수대로168번길 79 (권선동)",
+      "nearby": "수원골프연습장",
+      "officePhone": "031-232-1482",
+      "frontPhone": "031-220-4595",
+      "generalPhone": "031-220-4585",
+      "directions": "수원IC에서 경희대 수원캠퍼스 방향으로 직진한 뒤 고가 아래에서 좌회전합니다. 1번 국도변 왼쪽 골프연습장을 기준으로 체력단련장 진입로를 찾으면 됩니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010107020000"
+    },
+    "daegu": {
+      "officialName": "대구(K2)",
+      "address": "대구시 동구 둔산동 936-2",
+      "nearby": "부촌우리한우직판장, 대지산업",
+      "officePhone": "053-989-4523",
+      "frontPhone": "053-989-4524",
+      "generalPhone": "053-989-4523",
+      "directions": "동대구IC에서는 화랑로91길, 용호네거리, 해안동사무소, 부동농협창고, 부촌우리한우직판장을 지나 대구기지 관사정문 입구로 들어갑니다. 국도에서는 대구공항·입석네거리·방촌역을 거치는 길과 만촌동·화랑교·화랑로91길을 거치는 길이 따로 제시돼 있습니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010108020000"
+    },
+    "seongnam": {
+      "officialName": "성남",
+      "address": "경기도 성남시 수정구 대왕판교로 1210 (고등동)",
+      "nearby": "부천GS주유소, 한성대골프연습장",
+      "officePhone": "031-720-4082",
+      "frontPhone": "031-720-4083",
+      "generalPhone": "031-720-4081",
+      "directions": "수원·경기 이남에서 출발하면 수서·분당 고속도로, 세곡동사거리, 서울공항, 효성고등학교와 골프연습장 방향으로 접근합니다. 강남·북에서는 판교IC와 도로공사 앞을 지나 서울공항 쪽으로 이동한 뒤 오른쪽 골프연습장에서 진입합니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010109020000"
+    },
+    "yecheon": {
+      "officialName": "예천",
+      "address": "경북 예천군 유천면 버드내길 27",
+      "nearby": "예천체력단련장, 매산2리 마을회관",
+      "officePhone": "054-650-5971",
+      "frontPhone": "054-650-5974",
+      "generalPhone": "054-653-5162",
+      "directions": "서안동I.C에서는 예천·문경 방향으로 약 30km 이동한 뒤 유천면사무소 인근을 거쳐 들어갑니다. 문경·합창I.C에서는 예천·안동 방향으로 이동해 공항주유소 쪽에서 체력단련장으로 접근합니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010110020000"
+    },
+    "cheongju": {
+      "officialName": "청주",
+      "address": "충북 청주시 청원구 내수읍 원통숲안1길 39",
+      "nearby": "청원군 내수읍 원통리 132-2",
+      "officePhone": "043-200-4554",
+      "frontPhone": "043-200-4556",
+      "generalPhone": "043-214-4016",
+      "directions": "오창IC에서 청주 방향으로 이동해 오동교차로에서 좌회전하고 자동차전용도로로 들어갑니다. 내수 방향으로 나온 뒤 우리어린이집·성모꽃마을 쪽으로 좌회전하면 신 청주 체력단련장 입구로 이어집니다. 기존 후문 쪽은 청주에서 수름재와 현대오일뱅크를 거쳐 우리어린이집 입구로 좌회전하고, 증평에서는 후문을 지나 청주 방향으로 약 500m 이동한 뒤 같은 입구로 우회전합니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010111020000"
+    },
+    "gangneung": {
+      "officialName": "강릉",
+      "address": "강원특별자치도 강릉시 강동면 풍호길 262",
+      "nearby": "",
+      "officePhone": "033-645-8252",
+      "frontPhone": "033-649-3853",
+      "generalPhone": "033-645-8252",
+      "directions": "강릉IC에서 강릉대교와 강릉농산물도매시장을 지나 어정교차로까지 이동합니다. 이곳에서 메이플비치 방면으로 좌회전하면 강릉 체력단련장 방향입니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010112020000"
+    },
+    "chungju": {
+      "officialName": "충주",
+      "address": "충주시 금가면 문산신대 1길 21",
+      "nearby": "문산교회",
+      "officePhone": "043-849-5051",
+      "frontPhone": "043-849-5054",
+      "generalPhone": "043-849-5051",
+      "directions": "감곡IC에서 원주·제천 방향을 거쳐 충주·수안보 쪽으로 이동합니다. 목행대교를 건너기 전에 우회전하고 모형비행기 인근에서 좌회전한 뒤 중원 체력단련장 이정표를 따라가면 됩니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010113020000"
+    },
+    "seosan": {
+      "officialName": "서산",
+      "address": "충남 서산시 해미면 언암리 1-1(지번)",
+      "nearby": "서산 체력단련장(티맵 기준)",
+      "officePhone": "041-689-4082",
+      "frontPhone": "041-689-4083",
+      "generalPhone": "041-689-4082",
+      "directions": "해미I.C에서 서산 방면으로 직진한 뒤 소탐삼거리에서 애향LPG충전소 쪽으로 좌회전합니다. 남부교를 지나 다시 좌회전하고 간월2교 방향으로 직진하면 체력단련장 출입문이 나옵니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010114020000"
+    },
+    "osan": {
+      "officialName": "오산",
+      "address": "경기도 평택시 서탄면 용소금각로 360",
+      "nearby": "웃다리문화촌",
+      "officePhone": "031-669-2922",
+      "frontPhone": "031-669-2923",
+      "generalPhone": "031-669-2922",
+      "directions": "경부선 서울 방면에서는 송탄IC와 송탄IC교차로를 지나 대한민국재향군인회, 이충현대아파트, 한국관광고등학교, 웃다리문화촌 이정표, 금각교 순서로 이동합니다. 평택화성고속도로에서는 어연IC로 나와 용소금각로 황구지교 쪽으로 들어가고, 경부선 부산 방면에서는 오산IC·송탄·경기도립도서관사거리·한국관광고등학교·웃다리문화촌·금각교를 거칩니다.",
+      "courseUrl": "https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/subview.do?id=welfare_010115020000"
+    }
+  }
+}
